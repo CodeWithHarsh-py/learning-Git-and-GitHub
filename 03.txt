@@ -1,2 +1,8 @@
 also you ! ok thne lets make somee new chnages so that we can add new commit 
+<<<<<<< HEAD
 again some changes to see can i get merged and non merged branched !
+=======
+
+
+and this is for branch 2 and lets see if it can differenciate the merged nd non merged branch 
+>>>>>>> branch2
