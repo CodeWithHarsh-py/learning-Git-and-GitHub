@@ -1,1 +1,4 @@
 also you ! ok thne lets make somee new chnages so that we can add new commit 
+
+
+and this is for branch 2 and lets see if it can differenciate the merged nd non merged branch 
