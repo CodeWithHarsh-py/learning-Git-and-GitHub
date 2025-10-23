@@ -12,3 +12,4 @@ To delete a branch 👇
 
 *code =>* git push origin --delete branch_name
 
+changed this file in branch 2
