@@ -2,3 +2,5 @@ this should contain text i think so and thsi is same as master
 
 this is like that
 some chganges to merge and show merged branches 
+
+check is you can push only one file in branch and check the git hub 
